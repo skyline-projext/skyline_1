@@ -7,7 +7,7 @@
 
 ---
 ### 点击下载最新客户端
-#### :arrow_double_down: [iOS 大陆用户下载教程](https://www.skylinevpn.com/apple_help)
+#### :arrow_double_down: [iOS 用户下载教程](https://www.skylinevpn.com/apple-help)
 #### :arrow_double_down: [iOS 海外商店版本链接](https://apps.apple.com/app/apple-store/id6504067077)
 #### :arrow_double_down: [Android 最新客户端下载](https://client.ychz360.com/android/skyline-latest.apk)
 #### :arrow_double_down: [Windows 最新客户端下载](https://client.ychz360.com/windows/skyline-latest.zip)
