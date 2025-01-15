@@ -21,7 +21,7 @@
 #### :arrow_double_down: [Play Store](https://play.google.com/store/apps/details?id=com.cyberverse.skyline)
 #### :arrow_double_down: [Android 最新客户端下载](https://client.ychz360.com/android/skyline-latest.apk)
 #### :arrow_double_down: [Windows 最新客户端下载](https://client.ychz360.com/windows/skyline-latest.zip)
-#### :arrow_double_down: [官方网站链接](https://skylinevpn.go.link/imCVn)
+#### :arrow_double_down: [官方网站链接](https://app.adjust.com/1kggy9xf?redirect=https%3A%2F%2Fwww.skylinevpn.com)
 ---
 
 ## Skyline VPN 功能亮点
