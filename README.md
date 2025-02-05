@@ -8,20 +8,12 @@
 4️⃣ IPLC IEPL双接入 独家跨境专线 速度一骑绝尘
 
 ---
-🔥 没有人比我们更懂性价比 Skyline VPN 团购功能正式开启
-
-💰 折扣超低超猛 快叫你的好兄弟一起来翻墙吧
-
-[马上开始团购 畅享超低团购价格](https://www.skylinevpn.com/group-buying)
-
----
 ### 点击下载最新客户端
-#### :arrow_double_down: [iOS 用户下载教程](https://www.skylinevpn.com/apple-help)
-#### :arrow_double_down: [App Store](https://apps.apple.com/app/apple-store/id6738990928)
-#### :arrow_double_down: [Play Store](https://play.google.com/store/apps/details?id=com.cyberverse.skyline)
-#### :arrow_double_down: [Android 最新客户端下载](https://client.ychz360.com/android/skyline-latest.apk)
-#### :arrow_double_down: [Windows 最新客户端下载](https://client.ychz360.com/windows/skyline-latest.zip)
-#### :arrow_double_down: [官方网站链接](https://app.adjust.com/1kggy9xf?redirect=https%3A%2F%2Fwww.skylinevpn.com)
+#### :arrow_double_down: [App Store](https://app.adjust.com/1l42xm4z?fallback=https%3A%2F%2Fwww.skylinevpn.com%2Fdownload&redirect_android=https%3A%2F%2Fclient.ychz360.com%2Fandroid%2Fskyline-latest.apk&redirect_ios=https%3A%2F%2Fwww.skylinevpn.com%2Fdownload%3Fos%3Dios&redirect_macos=https%3A%2F%2Fwww.skylinevpn.com%2Fdownload)
+#### :arrow_double_down: [Play Store](https://app.adjust.com/1l42xm4z?fallback=https%3A%2F%2Fwww.skylinevpn.com%2Fdownload&redirect_android=https%3A%2F%2Fclient.ychz360.com%2Fandroid%2Fskyline-latest.apk&redirect_ios=https%3A%2F%2Fwww.skylinevpn.com%2Fdownload%3Fos%3Dios&redirect_macos=https%3A%2F%2Fwww.skylinevpn.com%2Fdownload)
+#### :arrow_double_down: [Android 最新客户端下载](https://app.adjust.com/1l42xm4z?fallback=https%3A%2F%2Fwww.skylinevpn.com%2Fdownload&redirect_android=https%3A%2F%2Fclient.ychz360.com%2Fandroid%2Fskyline-latest.apk&redirect_ios=https%3A%2F%2Fwww.skylinevpn.com%2Fdownload%3Fos%3Dios&redirect_macos=https%3A%2F%2Fwww.skylinevpn.com%2Fdownload)
+#### :arrow_double_down: [Windows 最新客户端下载](https://app.adjust.com/1l42xm4z?fallback=https%3A%2F%2Fwww.skylinevpn.com%2Fdownload&redirect_android=https%3A%2F%2Fclient.ychz360.com%2Fandroid%2Fskyline-latest.apk&redirect_ios=https%3A%2F%2Fwww.skylinevpn.com%2Fdownload%3Fos%3Dios&redirect_macos=https%3A%2F%2Fwww.skylinevpn.com%2Fdownload)
+#### :arrow_double_down: [官方网站链接](https://app.adjust.com/1l42xm4z?redirect=https%3A%2F%2Fwww.skylinevpn.com)
 ---
 
 ## Skyline VPN 功能亮点
