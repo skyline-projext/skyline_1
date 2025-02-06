@@ -9,11 +9,11 @@
 
 ---
 ### 点击下载最新客户端
-#### :arrow_double_down: [App Store](https://app.adjust.com/1l42xm4z?fallback=https%3A%2F%2Fwww.skylinevpn.com%2Fdownload&redirect_android=https%3A%2F%2Fdownload.skylinevpn.app%2Fandroid%2Fskyline-latest.apk&redirect_ios=https%3A%2F%2Fwww.skylinevpn.com%2Fdownload%3Fos%3Dios&redirect_macos=https%3A%2F%2Fwww.skylinevpn.com%2Fdownload)
-#### :arrow_double_down: [Play Store](https://app.adjust.com/1l42xm4z?fallback=https%3A%2F%2Fwww.skylinevpn.com%2Fdownload&redirect_android=https%3A%2F%2Fdownload.skylinevpn.app%2Fandroid%2Fskyline-latest.apk&redirect_ios=https%3A%2F%2Fwww.skylinevpn.com%2Fdownload%3Fos%3Dios&redirect_macos=https%3A%2F%2Fwww.skylinevpn.com%2Fdownload)
-#### :arrow_double_down: [Android 最新客户端下载](https://app.adjust.com/1l42xm4z?fallback=https%3A%2F%2Fwww.skylinevpn.com%2Fdownload&redirect_android=https%3A%2F%2Fdownload.skylinevpn.app%2Fandroid%2Fskyline-latest.apk&redirect_ios=https%3A%2F%2Fwww.skylinevpn.com%2Fdownload%3Fos%3Dios&redirect_macos=https%3A%2F%2Fwww.skylinevpn.com%2Fdownload)
-#### :arrow_double_down: [Windows 最新客户端下载](https://app.adjust.com/1l42xm4z?fallback=https%3A%2F%2Fwww.skylinevpn.com%2Fdownload&redirect_android=https%3A%2F%2Fdownload.skylinevpn.app%2Fandroid%2Fskyline-latest.apk&redirect_ios=https%3A%2F%2Fwww.skylinevpn.com%2Fdownload%3Fos%3Dios&redirect_macos=https%3A%2F%2Fwww.skylinevpn.com%2Fdownload)
-#### :arrow_double_down: [官方网站链接](https://app.adjust.com/1l42xm4z?redirect=https%3A%2F%2Fwww.skylinevpn.com)
+#### :arrow_double_down: [App Store](https://skyline.onelink.me/HxBH/github)
+#### :arrow_double_down: [Play Store](https://skyline.onelink.me/HxBH/github)
+#### :arrow_double_down: [Android 最新客户端下载](https://skyline.onelink.me/rB3P/github)
+#### :arrow_double_down: [Windows 最新客户端下载](https://skyline.onelink.me/rB3P/github)
+#### :arrow_double_down: [官方网站链接](https://skyline.onelink.me/BQjr/github)
 ---
 
 ## Skyline VPN 功能亮点
