@@ -9,8 +9,8 @@
 
 ---
 ### 点击下载最新客户端
-#### :arrow_double_down: [App Store](https://skyline.onelink.me/BQjr/skyline)
-#### :arrow_double_down: [Play Store](https://skyline.onelink.me/BQjr/skyline)
+#### :arrow_double_down: [App Store](https://skyline.onelink.me/BQjr/store)
+#### :arrow_double_down: [Play Store](https://skyline.onelink.me/BQjr/store)
 #### :arrow_double_down: [Android 最新客户端下载](https://skyline.onelink.me/BQjr/github)
 #### :arrow_double_down: [Windows 最新客户端下载](https://skyline.onelink.me/BQjr/github)
 #### :arrow_double_down: [官方网站链接](https://skyline.onelink.me/BQjr/github)
