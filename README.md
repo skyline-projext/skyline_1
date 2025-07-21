@@ -1,20 +1,19 @@
 # Skyline VPN – The Ultimate Unblocking Tool  
 
 1️⃣ **Instant Connection to YouTube 8K with Zero Buffering** – Your network speed defines Skyline's speed.  
-
 2️⃣ **Unlock All Streaming Services & AI Models** – Supports ChatGPT and numerous native online services.  
-
 3️⃣ **IPLC & IEPL Dual Access with Exclusive Cross-Border Dedicated Routes** – Lightning-fast speeds.  
+4️⃣ **🌏 Exclusive China Nodes** – Instantly unlock iQiyi, bilibili, Youku, Tencent Video, and enjoy your favorite Chinese dramas and online entertainment without barriers.  
 
 ---
 
-### 📥 Download the Latest Client  
+### 📥  Download the Latest Client  
 
-#### :arrow_double_down: [App Store - iOS & macOS](https://apps.apple.com/app/id6737793719)  
-#### :arrow_double_down: [Play Store](https://play.google.com/store/apps/details?id=com.cyberverse.skyline)  
-#### :arrow_double_down: [Android Latest Client Download](https://d1kh8pbucqvhvv.cloudfront.net/android/skyline-latest.apk)  
-#### :arrow_double_down: [Windows Latest Client Download](https://d1kh8pbucqvhvv.cloudfront.net/windows/skyline-latest.zip)  
-#### :arrow_double_down: [Official Website](https://www.skylinevpn.com)  
+- #### 📥  [App Store - iOS & macOS](https://apps.apple.com/app/id6737793719)  
+- #### 📥  [Play Store](https://play.google.com/store/apps/details?id=com.cyberverse.skyline)  
+- #### 📥  [Android Latest Client Download](https://d1kh8pbucqvhvv.cloudfront.net/android/skyline-latest.apk)  
+- #### 📥  [Windows Latest Client Download](https://d1kh8pbucqvhvv.cloudfront.net/windows/skyline-latest.zip)  
+- #### 📥  [官方网站链接](https://www.skylinevpn.io)
 
 ---
 
@@ -28,6 +27,7 @@
 - **Service Unblocking** – Supports unlocking global streaming services, AI models (ChatGPT, Claude, etc.), and region-locked games.  
 - **High-Speed Stability** – Powered by IPLC and IEPL dual access with exclusive cross-border dedicated routes for unmatched speed.  
 - **Reliable Team** – Operated by a Chinese American team, running stably for three years with over 1 million satisfied users.  
+- **🌏 Exclusive China Nodes** – Instantly unlock iQiyi, bilibili, Youku, Tencent Video, and enjoy your favorite Chinese dramas and online entertainment without barriers.  
 
 ---
 
@@ -46,22 +46,20 @@ What are you waiting for? Join now! **Skyline VPN – Connect to the world with 
 # Skyline VPN 翻墙神器  
 
 1️⃣ **秒开秒连 YouTube 8K 不卡** – 你的网络有多快，Skyline 就有多快。  
-
 2️⃣ **支持全流媒体解锁 & AI 模型** – 支持 ChatGPT 及众多原生网络服务。  
-
 3️⃣ **美籍华人团队** – 稳定运营三年，服务用户 **100 万+**。  
-
 4️⃣ **IPLC & IEPL 双接入** – 独家跨境专线，速度一骑绝尘。  
+5️⃣ **🌏 独家中国节点** – 一键解锁爱奇艺、哔哩哔哩、优酷、腾讯视频，畅享你最爱的中文剧集和网络娱乐活动！  
 
 ---
 
-### 📥 点击下载最新客户端  
+### 📥  点击下载最新客户端  
 
-#### :arrow_double_down: [App Store - iOS & macOS](https://apps.apple.com/app/id6737793719)
-#### :arrow_double_down: [Play Store](https://play.google.com/store/apps/details?id=com.cyberverse.skyline)  
-#### :arrow_double_down: [Android 最新客户端下载](https://d1kh8pbucqvhvv.cloudfront.net/android/skyline-latest.apk)  
-#### :arrow_double_down: [Windows 最新客户端下载](https://d1kh8pbucqvhvv.cloudfront.net/windows/skyline-latest.zip)  
-#### :arrow_double_down: [官方网站链接](https://www.skylinevpn.io)  
+- #### 📥  [App Store - iOS & macOS](https://apps.apple.com/app/id6737793719)  
+- #### 📥  [Play Store](https://play.google.com/store/apps/details?id=com.cyberverse.skyline)  
+- #### 📥  [Android 最新客户端下载](https://d1kh8pbucqvhvv.cloudfront.net/android/skyline-latest.apk)  
+- #### 📥  [Windows 最新客户端下载](https://d1kh8pbucqvhvv.cloudfront.net/windows/skyline-latest.zip)  
+- #### 📥  [官方网站链接](https://www.skylinevpn.io)
 
 ---
 
@@ -75,6 +73,7 @@ What are you waiting for? Join now! **Skyline VPN – Connect to the world with 
 - **服务解锁** – 支持 **全球流媒体解锁、AI 模型 (ChatGPT, Claude 等)、各类锁区手游**。  
 - **高速稳定** – 采用 IPLC、IEPL 双接入，独家跨境专线，速度一骑绝尘。  
 - **团队保障** – 美籍华人团队，无惧任何查水表，稳定运营三年，服务用户 **100 万+**。  
+- **🌏 独家中国节点** – 一键解锁爱奇艺、哔哩哔哩、优酷、腾讯视频，畅享你最爱的中文剧集和网络娱乐活动！  
 
 ---
 
