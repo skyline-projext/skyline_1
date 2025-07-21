@@ -13,7 +13,7 @@
 - #### 📥  [Play Store](https://play.google.com/store/apps/details?id=com.cyberverse.skyline)  
 - #### 📥  [Android Latest Client Download](https://d1kh8pbucqvhvv.cloudfront.net/android/skyline-latest.apk)  
 - #### 📥  [Windows Latest Client Download](https://d1kh8pbucqvhvv.cloudfront.net/windows/skyline-latest.zip)  
-- #### 📥  [官方网站链接](https://www.skylinevpn.io)
+- #### 📥  [official-website](https://www.skylinevpn.io)
 
 ---
 
