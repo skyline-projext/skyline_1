@@ -12,8 +12,8 @@
 
 #### :arrow_double_down: [App Store - iOS & macOS](https://apps.apple.com/app/id6737793719)  
 #### :arrow_double_down: [Play Store](https://play.google.com/store/apps/details?id=com.cyberverse.skyline)  
-#### :arrow_double_down: [Android Latest Client Download](https://download.skylinevpn.app/android/skyline-latest.apk)  
-#### :arrow_double_down: [Windows Latest Client Download](https://download.skylinevpn.app/windows/skyline-latest.zip)  
+#### :arrow_double_down: [Android Latest Client Download](https://d1kh8pbucqvhvv.cloudfront.net/android/skyline-latest.apk)  
+#### :arrow_double_down: [Windows Latest Client Download](https://d1kh8pbucqvhvv.cloudfront.net/windows/skyline-latest.zip)  
 #### :arrow_double_down: [Official Website](https://www.skylinevpn.com)  
 
 ---
@@ -59,9 +59,9 @@ What are you waiting for? Join now! **Skyline VPN – Connect to the world with 
 
 #### :arrow_double_down: [App Store - iOS & macOS](https://apps.apple.com/app/id6737793719)
 #### :arrow_double_down: [Play Store](https://play.google.com/store/apps/details?id=com.cyberverse.skyline)  
-#### :arrow_double_down: [Android 最新客户端下载](https://download.skylinevpn.app/android/skyline-latest.apk)  
-#### :arrow_double_down: [Windows 最新客户端下载](https://download.skylinevpn.app/windows/skyline-latest.zip)  
-#### :arrow_double_down: [官方网站链接](https://www.skylinevpn.com)  
+#### :arrow_double_down: [Android 最新客户端下载](https://d1kh8pbucqvhvv.cloudfront.net/android/skyline-latest.apk)  
+#### :arrow_double_down: [Windows 最新客户端下载](https://d1kh8pbucqvhvv.cloudfront.net/windows/skyline-latest.zip)  
+#### :arrow_double_down: [官方网站链接](https://www.skylinevpn.io)  
 
 ---
 
